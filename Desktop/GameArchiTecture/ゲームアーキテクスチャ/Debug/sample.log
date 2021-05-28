@@ -1,0 +1,7 @@
+﻿  Debug.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(173,1): fatal error C1189: #error:  "No Target Architecture"
+  main.cpp
+C:\Users\Tomiy\Desktop\ゲームAT\FirstPojects\ゲームアーキテクスチャ\main.cpp(21,16): error C2011: 'Vector2': 'struct' 型の再定義
+C:\Users\Tomiy\Desktop\ゲームAT\FirstPojects\ゲームアーキテクスチャ\Debug.h(21): message : 'Vector2' の宣言を確認してください
+C:\Users\Tomiy\Desktop\ゲームAT\FirstPojects\ゲームアーキテクスチャ\main.cpp(29,12): error C2079: 'Rect::center' が 未定義の struct 'Vector2' で使用しています。
+  コードを生成中...
